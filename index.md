@@ -10,3 +10,11 @@ Learn and show H1 - H6 by #'s
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 add image in md file
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+``` javascript
+var myVar = "Hello, world!";
+```
