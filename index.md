@@ -6,3 +6,7 @@
 ###### H6 Header
 
 Learn and show H1 - H6 by #'s
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+add image in md file
